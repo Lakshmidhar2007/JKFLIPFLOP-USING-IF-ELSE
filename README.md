@@ -44,7 +44,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 5. For different input combinations generate the timing diagram
 
 **PROGRAM**
- ## Developed by:LAKSHMIDHAR N; RegisterNumber: 24900046
+ ### Developed by:LAKSHMIDHAR N; 
+ ### RegisterNumber: 212224230138
      module exp7(j, k, clk, rst,q);
      
      input j, k, clk, rst;
